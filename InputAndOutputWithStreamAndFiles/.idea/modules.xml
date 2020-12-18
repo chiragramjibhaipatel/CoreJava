@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/InputAndOutputWithStreamAndFiles.iml" filepath="$PROJECT_DIR$/InputAndOutputWithStreamAndFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PlayWtthZipFileSystm/PlayWtthZipFileSystm.iml" filepath="$PROJECT_DIR$/../PlayWtthZipFileSystm/PlayWtthZipFileSystm.iml" />
     </modules>
   </component>
 </project>
